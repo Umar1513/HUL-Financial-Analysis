@@ -74,7 +74,7 @@ Key Learnings
 * Dashboard design and storytelling
 * Business intelligence reporting
 
-Repository Structure
+ Repository Structure
 
 ├── HUL Dashboard.pbix
 ├── HUL PBI rdy.xlsx
